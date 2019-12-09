@@ -1,0 +1,33 @@
+= gyarbox a pythonic gearbox
+felix@42sol.eu
+:experimental:
+
+== Goals:
+
+. Combine some powerfull python based tools (gears) in one project (box)
+. Enshure a powerful commandline interface (click)
+. Add tutorials, checklists and documentations
+
+== The Gears
+
+. COG by Ned Batchelder
+. ... to be continued
+
+== The Name
+Is obviously:
+
+[ditaa]
+....
++---+                      +--+
+| p |    +---------+    +--+  +----+
+| y +===>+ gearbox +--->+  gyarbox |
+| t |    +---------+    +--+  +----+
+| h |                      +--+
+| o |                      |  |
+| n |                      |  |
++---+                      +--+
+....
+
+With the nice unintended twist that the ungarian word `gyar`
+means `factory` or `plant`.
+
