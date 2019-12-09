@@ -13,4 +13,4 @@ def main(args=None):
 
 
 if __name__ == "__main__":
-    sys.exit(main())  # pragma: no cover
+    sys.exit( main() )  # pragma: no cover
